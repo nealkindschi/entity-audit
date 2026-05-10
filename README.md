@@ -1,6 +1,6 @@
 # entity-audit
 
-A standalone opencode/Claude skill that audits any URL for entity coverage and semantic SEO signals. No API keys required.
+A standalone skill that audits any URL for entity coverage and semantic SEO signals. No API keys required.
 
 ## What it does
 
